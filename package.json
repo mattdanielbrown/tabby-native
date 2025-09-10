@@ -14,7 +14,7 @@
     "@react-native-community/art": "^1.1.2",
     "@react-native-community/async-storage": "^1.7.1",
     "acorn": "^7.1.1",
-    "core-js": "^3.6.4",
+    "core-js": "^3.45.1",
     "create-react-class": "^15.6.3",
     "eva-icons": "^1.1.2",
     "mem": "^6.0.0",
